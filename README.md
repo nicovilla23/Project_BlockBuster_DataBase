@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <h3 align="center"> Blockbuster Database</h3>
 </p>
-<img width="478" alt="Principal" src=https://github.com/nicovilla23/Proyect_BlockBuster_DataBase/blob/main/images/Captura%20de%20Pantalla%202023-07-31%20a%20las%2019.05.09.png?raw=true>
+<img width="478" alt="Principal" align='center'  src=https://github.com/nicovilla23/Proyect_BlockBuster_DataBase/blob/main/images/Captura%20de%20Pantalla%202023-07-31%20a%20las%2019.05.09.png?raw=true>
 <p align="center" width="300">
    <h3 align="center"> Nicolás Villanova</h3>
 
@@ -75,7 +75,7 @@ Given the data I have I create a database built around the business plan of the 
 
 I use MySQL to import the data that has been previously cleaned and insert it into the database I created.
 
-<img width="478" alt="Principal" src="https://github.com/nicovilla23/Proyect_BlockBuster_DataBase/blob/main/images/Captura%20de%20Pantalla%202023-07-31%20a%20las%2016.07.16.png?raw=true">
+<img width="478" alt="Principal" align='center' src="https://github.com/nicovilla23/Proyect_BlockBuster_DataBase/blob/main/images/Captura%20de%20Pantalla%202023-07-31%20a%20las%2016.07.16.png?raw=true">
 
 
 
